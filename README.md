@@ -6,6 +6,8 @@ Tidelight Delay 是 WTdusk 开发的立体声吉他延迟效果器，提供三�
 
 **[Download the latest release / 下载最新版](https://github.com/WTdusk/tidelight-delay/releases/latest)** · [Windows installation / Windows 安装](#windows-安装--install-on-windows) · [Build from source / 从源码构建](BUILD.md)
 
+![Tidelight Delay plugin editor in Tape mode with the default Pedal preset / Tidelight Delay 插件界面，磁带模式与默认 Pedal 预设](docs/tidelight-delay.png)
+
 ## Downloads / 下载
 
 Prebuilt packages target **Windows 10 or later, x64**. macOS and Linux users can [build from source](BUILD.md). Windows 预编译包适用于 **Windows 10 及以上的 x64 系统**。macOS 和 Linux 可[从源码构建](BUILD.md)。
